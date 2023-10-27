@@ -7,8 +7,6 @@ import java.lang.Math;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at 
-//        System.out.println("Hello and welcome!");
 
         Scanner scanner = new Scanner(System.in);
 //        boolean isRunning = true;
