@@ -9,9 +9,6 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-//        boolean isRunning = true;
-
-//        while (isRunning) {
             System.out.println("Calculator Menu:");
             System.out.println("1. Addition");
             System.out.println("2. Subtraction");
