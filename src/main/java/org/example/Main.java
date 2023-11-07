@@ -17,7 +17,7 @@ public class Main {
             System.out.println("2. Subtraction");
             System.out.println("3. Multiplication");
             System.out.println("4. Division");
-            System.out.println("5. Logarithm (base 10)");
+            System.out.println("5. Log (base 10)");
             System.out.println("6. Exponent (e)");
             System.out.println("0. Exit");
             System.out.print("Select an operation: ");
